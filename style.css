@@ -27,7 +27,7 @@ a{
 }
 
 h2{
-    color: #9ca06c;
+    color: #828271;
 }
 
 p{
@@ -43,4 +43,7 @@ p{
    width: 900px;
 }
 
+.image{
+    border: 10px solid #c3c3ae;
+}
 
